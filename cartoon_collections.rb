@@ -20,7 +20,7 @@ end
 # Return the boolean result of this check
 
 def long_planeteer_calls(planeteer_calls)
-
+  
 end
 
 def find_valid_calls(planeteer_calls)
